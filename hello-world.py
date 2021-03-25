@@ -1,2 +1,2 @@
-# print "Hello World!" to the console
+# print "Hello World!" to the screen
 print('Hello World!')
