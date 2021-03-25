@@ -1,1 +1,1 @@
-# This is a simple program that prints "Hello World!" to the screen
+# This is a simple program in Python that prints "Hello World!" to the screen
